@@ -101,6 +101,11 @@ Type `yes` when prompted to confirm the destruction of resources.
 
 ---
 
+## Author
+
+**Saeedullah Shaikh**
+- GitHub: [@Saeedullahshaikh](https://github.com/Saeedullahshaikh)
+
 ## 📜 License
 
 This project is licensed under the MIT License.
